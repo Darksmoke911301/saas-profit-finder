@@ -1,0 +1,24 @@
+{
+  "name": "saas-profit-finder",
+  "version": "1.0.0",
+  "description": "Anti-hallucination SaaS opportunity discovery pipeline for Claude Code. Runs a 9-stage workflow: intake interview → market selection → pain mining → evidence verification → opportunity design → scoring → Devil's Advocate critique → validation planning → ranked opportunity brief. Ships 1 orchestrator skill, 8 specialist agents, and the /saas-hunt slash command.",
+  "author": {
+    "name": "Darksmoke911301",
+    "url": "https://github.com/Darksmoke911301"
+  },
+  "homepage": "https://github.com/Darksmoke911301/saas-profit-finder",
+  "repository": "https://github.com/Darksmoke911301/saas-profit-finder",
+  "license": "MIT",
+  "keywords": [
+    "saas",
+    "startup",
+    "business-ideas",
+    "market-research",
+    "validation",
+    "opportunity-discovery",
+    "bootstrapped",
+    "indie-hackers",
+    "claude-code",
+    "claude-plugin"
+  ]
+}

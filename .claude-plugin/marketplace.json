@@ -1,0 +1,17 @@
+{
+  "name": "saas-profit-finder",
+  "owner": {
+    "name": "Darksmoke911301",
+    "url": "https://github.com/Darksmoke911301"
+  },
+  "description": "SaaS Profit Finder — anti-hallucination Claude Code plugin that discovers, validates, and ranks profitable SaaS opportunities through a structured intake interview, market mapping, pain mining, evidence verification, adversarial review, and 14-day validation plans.",
+  "plugins": [
+    {
+      "name": "saas-profit-finder",
+      "source": "./",
+      "description": "1 orchestrator skill + 8 specialist agents + /saas-hunt slash command. Refuses to brainstorm generic SaaS ideas until the 30-question intake is complete. Forces evidence-backed claims, gray-zone = unvalidated, and Devil's Advocate review before final ranking.",
+      "version": "1.0.0",
+      "license": "MIT"
+    }
+  ]
+}
