@@ -10,7 +10,7 @@
       "name": "saas-profit-finder",
       "source": "./",
       "description": "1 orchestrator skill + 8 specialist agents + /saas-hunt slash command. Refuses to brainstorm generic SaaS ideas until the 30-question intake is complete. Forces evidence-backed claims, gray-zone = unvalidated, and Devil's Advocate review before final ranking.",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "license": "MIT"
     }
   ]

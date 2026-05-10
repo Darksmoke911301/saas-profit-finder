@@ -1,6 +1,6 @@
 {
   "name": "saas-profit-finder",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Anti-hallucination SaaS opportunity discovery pipeline for Claude Code. Runs a 9-stage workflow: intake interview → market selection → pain mining → evidence verification → opportunity design → scoring → Devil's Advocate critique → validation planning → ranked opportunity brief. Ships 1 orchestrator skill, 8 specialist agents, and the /saas-hunt slash command.",
   "author": {
     "name": "Darksmoke911301",
